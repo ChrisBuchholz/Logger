@@ -1,0 +1,13 @@
+language: objective-c
+
+branches:
+ only:
+ - master
+
+xcode_project: Logger.xcodeproj
+xcode_scheme: LoggerTests
+osx_image: xcode8.1
+xcode_sdk: iphonesimulator10.1
+
+script:
+- xcodebuild clean build test -project Logger.xcodeproj -scheme Logger
