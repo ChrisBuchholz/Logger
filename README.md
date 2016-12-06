@@ -77,7 +77,9 @@ Here is the current Swift compatibility breakdown:
 
 ## Installation
 
-### Swift Package Manager
+### [Swift Package Manager]
+
+[Swift Package Manager]: https://swift.org/package-manager/
 
 Add the following line to your `dependencies` list in your `Package.swift`:
 
