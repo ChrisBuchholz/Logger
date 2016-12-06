@@ -1,4 +1,4 @@
-# Logger [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+# Logger [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![Build Status](https://travis-ci.org/ChrisBuchholz/Logger.svg?branch=master)](https://travis-ci.org/ChrisBuchholz/Logger)
 
 ⚠️ Logger is new-as-can-be and lots of stuff is missing. Feel free to
 [contribute][CONTRIBUTING].
