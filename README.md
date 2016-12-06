@@ -86,10 +86,22 @@ Add the following line to your `dependencies` list in your `Package.swift`:
 majorVersion: 0, minor: 1),
 ```
 
-### Carthage
+### [Carthage]
 
-Support for Carthage are coming. Do feel welcome to make a pull-request for
-this feature.
+[Carthage]: https://github.com/Carthage/Carthage
+
+Add the following to your Cartfile:
+
+```
+github "ChrisBuchholz/Logger"
+```
+
+Then run `carthage update`.
+
+Follow the current instructions in [Carthage's README][carthage-installation]
+for up to date installation instructions.
+
+[carthage-installation]: https://github.com/Carthage/Carthage#adding-frameworks-to-an-application
 
 ### CocoaPods
 
