@@ -10,4 +10,6 @@ osx_image: xcode8.1
 xcode_sdk: iphonesimulator10.1
 
 script:
-- xcodebuild clean build test -project Logger.xcodeproj -scheme Logger
+- xcodebuild clean build test -project Logger.xcodeproj
+  -scheme Logger
+  -destination 'platform=iOS Simulator,OS=10.1,name=iPhone 7'
