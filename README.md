@@ -109,11 +109,6 @@ for up to date installation instructions.
 
 [carthage-installation]: https://github.com/Carthage/Carthage#adding-frameworks-to-an-application
 
-### CocoaPods
-
-Support for CocoaPods are coming. Do feel welcome to make a pull-request for
-this feature.
-
 ## Contributing
 
 See the [CONTRIBUTING] document. Thank you, [contributors]!
